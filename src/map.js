@@ -1,3 +1,4 @@
+/* eslint-disable global-require, import/no-dynamic-require */
 const fs = require("fs").promises;
 const fsConstants = require("fs").constants;
 
@@ -15,7 +16,7 @@ class Map {
         this.data = data;
         return true;
       })
-      .catch((err) => {
+      .catch(() => {
         throw new Error(`Can't load file ${dataFilePath}`);
       });
   }
