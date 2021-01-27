@@ -1,0 +1,8 @@
+{
+  "_id": 51,
+  "alias": "rock",
+  "name": "Rock",
+  "description": "",
+  "texture": "rock.png",
+  "effects": ["blocked"]
+}

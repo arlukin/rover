@@ -2,7 +2,7 @@ module.exports = {
   // Automatically clear mock calls and instances before every test.
   clearMocks: true,
   modulePathIgnorePatterns: [],
-  roots: ["<rootDir>/packages", "<rootDir>/src"],
+  roots: ["<rootDir>/packages", "<rootDir>/test"],
   setupFilesAfterEnv: ["<rootDir>/jest-setup-timeout.js"],
   testEnvironment: "node",
 

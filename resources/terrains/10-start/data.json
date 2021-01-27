@@ -1,0 +1,8 @@
+{
+  "_id": 10,
+  "alias": "start",
+  "name": "Start",
+  "description": "Where the rovers can start",
+  "texture": "start.png",
+  "effects": []
+}

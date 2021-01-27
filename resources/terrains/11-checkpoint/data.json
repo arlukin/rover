@@ -1,0 +1,8 @@
+{
+  "_id": 11,
+  "alias": "checkpoint",
+  "name": "Checkpoint",
+  "description": "",
+  "texture": "checkpoint.png",
+  "effects": []
+}

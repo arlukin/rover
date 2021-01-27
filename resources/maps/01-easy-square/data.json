@@ -1,0 +1,16 @@
+{
+  "_id": "01",
+  "alias": "easy-square",
+  "name": "Easy square",
+  "thumbnail": "easy-square.png",
+  "length": "short",
+  "difficulty": "easy",
+  "size": { "width": 5, "length": 5 },
+  "layout": [
+    [10, 51, 50, 50, 50],
+    [50, 50, 50, 50, 50],
+    [10, 51, 50, 50, 11],
+    [50, 50, 50, 50, 50],
+    [10, 51, 50, 50, 50]
+  ]
+}

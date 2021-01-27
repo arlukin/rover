@@ -1,0 +1,8 @@
+{
+  "_id": 50,
+  "alias": "sand",
+  "name": "Sand",
+  "description": "",
+  "texture": "sand.png",
+  "effects": []
+}
